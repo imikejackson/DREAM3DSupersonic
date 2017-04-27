@@ -1,0 +1,48 @@
+[submodule "DREAM3D/ExternalProjects/CMP"]
+	path = DREAM3D/ExternalProjects/CMP
+	url = ssh://git@github.com/bluequartzsoftware/CMP
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/SIMPL"]
+	path = DREAM3D/ExternalProjects/SIMPL
+	url = ssh://git@github.com/bluequartzsoftware/SIMPL
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/SIMPLView"]
+	path = DREAM3D/ExternalProjects/SIMPLView
+	url = ssh://git@github.com/bluequartzsoftware/SIMPLView
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/ITKImageProcessing"]
+	path = DREAM3D/ExternalProjects/Plugins/ITKImageProcessing
+	url = ssh://git@github.com/bluequartzsoftware/ITKImageProcessing
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/ImageProcessing"]
+	path = DREAM3D/ExternalProjects/Plugins/ImageProcessing
+	url = ssh://git@github.com/dream3d/ImageProcessing
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/UCSBUtilities"]
+	path = DREAM3D/ExternalProjects/Plugins/UCSBUtilities
+	url = ssh://git@github.com/dream3d/UCSBUtilities
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/Anisotropy"]
+	path = DREAM3D/ExternalProjects/Plugins/Anisotropy
+	url = ssh://git@github.com/dream3d/Anisotropy
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/HEDMAanlysis"]
+	path = DREAM3D/ExternalProjects/Plugins/HEDMAanlysis
+	url = ssh://git@github.com/dream3d/HEDMAnalysis
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/DDDAnalysisToolbox"]
+	path = DREAM3D/ExternalProjects/Plugins/DDDAnalysisToolbox
+	url = ssh://git@github.com/dream3d/DDDAnalysisToolbox
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/TransformationPhase"]
+	path = DREAM3D/ExternalProjects/Plugins/TransformationPhase
+	url = ssh://git@github.com/dream3d/TransformationPhase
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/MASSIFUtilities"]
+	path = DREAM3D/ExternalProjects/Plugins/MASSIFUtilities
+	url = ssh://git@github.com/dream3d/MASSIFUtilities
+	branch = develop
+[submodule "DREAM3D/ExternalProjects/Plugins/FiberToolbox"]
+	path = DREAM3D/ExternalProjects/Plugins/FiberToolbox
+	url = ssh://git@github.com/dream3d/FiberToolbox
+	branch = develop
